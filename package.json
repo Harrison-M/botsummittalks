@@ -18,12 +18,14 @@
     "url": "https://github.com/Harrison-M/botsummittalks"
   },
   "keywords": [
-    "games"
+    "bot",
+    "botsummit"
   ],
   "author": "Harrison M.",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Harrison-M/botsummittalks/issues"
   },
-  "homepage": "https://twitter.com/botsummittalks"
+  "homepage": "https://twitter.com/botsummittalks",
+  "private": true
 }
